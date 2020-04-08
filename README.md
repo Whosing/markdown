@@ -1,6 +1,7 @@
 # Markdown範例
 A markdown example shows how to write a markdown file. This document integrates core syntax and extensions (GMF).
  [Markdown文件]: https://markdown.tw/
+ https://guides.github.com/features/mastering-markdown/
 * [Block Elements](#block-elements)
   * [Paragraphs and Line Breaks](#paragraphs-and-line-breaks)
   * [Headers](#headers)
